@@ -1,6 +1,6 @@
 # 🎉 Congratulazioni! 🎉
 
-Hai completato con successo l’installazione di **Modder.IO 1-26M3**!  
+Hai completato con successo l’installazione di **Modder.IO 1 26M3**!  
 
 Ben fatto! Ora puoi iniziare a:
 
