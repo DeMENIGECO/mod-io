@@ -51,6 +51,9 @@ call :confirm
 echo.
 echo ===== Inizio MOD =====
 
+:: Avviso iniziale
+powershell -Command "Write-Host 'ATTENZIONE: Modder.IO può moddare solo dispositivi con lettera (dischi o chiavette). Smartphone o tablet senza lettera NON sono supportati.' -ForegroundColor Red"
+
 :: Chiedi nome dispositivo
 set /p disp=Inserisci nome dispositivo: 
 
