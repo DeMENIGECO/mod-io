@@ -12,7 +12,7 @@ Ben fatto! Ora puoi iniziare a:
 
 ## Suggerimenti per iniziare
 
-1. Apri **ModderIO.bat** nella cartella dove hai estratto lo zip.  
+1. Apri **modderio_1-26M3.bat** nella cartella dove hai estratto lo zip.  
 2. Segui le istruzioni a schermo per moddare i tuoi file.  
 3. Consulta **Modder.IO_1-26M3_introduction.md** se vuoi una guida completa.  
 
