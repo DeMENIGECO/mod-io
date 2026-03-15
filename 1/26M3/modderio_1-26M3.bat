@@ -66,10 +66,10 @@ echo Estraggo lo zip nel percorso temporaneo...
 powershell -Command "Expand-Archive -Path '%zip%' -DestinationPath '%tempdir%' -Force"
 
 :: Chiedi lettera del dispositivo e cartella di destinazione
-set /p lettera_disp=Inserisci la lettera del dispositivo (es: E:): 
+set /p lettera_disp=Inserisci la lettera del dispositivo (es: E): 
 set /p disp_perc=Scegli la cartella di destinazione nel dispositivo (lascia vuoto per root): 
 
-set percourse=%lettera_disp%\%disp_perc%
+set percourse=%lettera_disp%:\%disp_perc%
 
 :: Copia dei file estratti nel dispositivo
 echo Copio i file estratti nel dispositivo...
